@@ -125,3 +125,8 @@
 	font-size: small;
 }
 
+/* Display Add to Cart button inline */
+#store .entry form, #store .entry form div {
+	display: inline;
+}
+
